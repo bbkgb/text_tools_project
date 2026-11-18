@@ -1,0 +1,1 @@
+echo "This project explores text processing and text analysis tools." > text_analysis.txt
